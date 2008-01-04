@@ -1,0 +1,12 @@
+export(marginTree,
+marginTree.predict,
+marginTree.cv,
+marginTree.getnonzero,
+marginTree.confusion,
+marginTree.plclust,
+marginTree.plotcv,
+print.marginTree,
+print.marginTreecv,
+print.marginTreegetnonzero,
+summary.marginTreegetnonzero
+)
