@@ -4,7 +4,7 @@
  margin tree  classifier}
 \description{
 A function to predict from the
- margin tree  classifier}
+ margin tree  classifier
 }
 \usage{
 marginTree.predict(train.obj,x, threshold=1)
@@ -53,5 +53,4 @@ train.obj<-   marginTree(x,y)
 # get predictions for test data
 marginTree.predict(train.obj,xx)
 }
-\keyword{ }
 

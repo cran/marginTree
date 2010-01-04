@@ -12,7 +12,6 @@
 \alias{print.marginTreegetnonzero}
 \alias{summary.marginTreegetnonzero}
 \alias{transf}
-
 \description{Internal marginTree functions}
 \usage{
 mypredict(a,x,threshold)
@@ -33,4 +32,5 @@ transf(x,xx=NULL)
   These are not to be called by the user.
 }
 \keyword{internal}
+
 

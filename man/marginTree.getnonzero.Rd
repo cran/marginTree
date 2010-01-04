@@ -2,7 +2,7 @@
 \alias{marginTree.getnonzero}
 \title{Get important features at each split of the margin tree}
 \description{
-A function to get important features at each split of the margin tree}
+A function to get important features at each split of the margin tree
 }
 \usage{
 marginTree.getnonzero(train.obj,  threshold)
@@ -53,5 +53,4 @@ junk<- marginTree.getnonzero(train.obj,threshold=.5)
 
 summary(junk)
 }
-\keyword{ }
 

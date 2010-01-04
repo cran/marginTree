@@ -77,5 +77,4 @@ cv.obj<- marginTree.cv(x,y,train.obj)
 cv.obj
 
 }
-\keyword{ }
 

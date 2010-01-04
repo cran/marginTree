@@ -25,7 +25,6 @@ Default TRUE}
 }
 
 
-\references{}
 
 
 
@@ -56,5 +55,4 @@ cv.obj<-marginTree.cv(x,y,train.obj)
 
 marginTree.confusion(cv.obj, threshold=.5)
 }
-\keyword{ }
 

@@ -21,7 +21,6 @@ marginTree.plotcv(cv.obj)
 \value{
 }
 
-\references{}
 
 
 \author{Robert Tibshirani and Trevor Hastie}
@@ -52,5 +51,4 @@ cv.obj<- marginTree.cv(x,y,train.obj)
 marginTree.plotcv(cv.obj)
 }
 
-\keyword{ }
 

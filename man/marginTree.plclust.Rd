@@ -2,7 +2,7 @@
 \alias{marginTree.plclust}
 \title{Plot a  margin tree}
 \description{
-A function to plot margin tree}
+A function to plot margin tree
 }
 \usage{
 marginTree.plclust(train.obj, ...)
@@ -52,5 +52,4 @@ train.obj<-  marginTree(x,y)
 marginTree.plclust(train.obj)
 
 }
-\keyword{ }
 

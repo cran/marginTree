@@ -78,5 +78,4 @@ train.obj<-   marginTree(x,y)
  
   train.obj
 }
-\keyword{ }
 
